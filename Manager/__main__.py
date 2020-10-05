@@ -25,6 +25,8 @@ Hello {}, my name is {}!
 You know how hard it is sometimes to manage group so here is the solution for you.
 
 My owner is [Sharingan {UCHIHA}](t.me/sharinganuser1)
+[Main channel](t.me/uchihacommunity) [Live cc](t.me/uchihacc) [Group](t.me/uchihasgroup)
+
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
