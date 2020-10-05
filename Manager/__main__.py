@@ -24,9 +24,8 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Sharingan {UCHIHA}](t.me/sharinganuser1)
-[Main channel](t.me/uchihacommunity) [Live cc](t.me/uchihacc) [Group](t.me/uchihasgroup)
-
+My owner is [Sharingan](t.me/sharinganuser1)
+My [Channel](t.me/uchihacommunity)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
@@ -43,11 +42,12 @@ Group Management Bot with advanced features.
    - in PM: will send you your settings for all supported modules.
    - in a group: will redirect you to pm, with all that chat's settings.
  
+Pls note that this repo is based on Saitama Bot and GroupManager Bot.
 
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @TheFlashxD."""
+DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @xditya."""
 
 IMPORTED = {}
 MIGRATEABLE = []
