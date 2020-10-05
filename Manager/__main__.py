@@ -24,7 +24,7 @@ Hello {}, my name is {}!
 
 You know how hard it is sometimes to manage group so here is the solution for you.
 
-My owner is [Aditya 🇮🇳](t.me/xditya)
+My owner is [Sharingan {UCHIHA}](t.me/sharinganuser1)
 
 Click /help or Help button below to find out more about how to use me to my full potential.
 """
@@ -46,7 +46,7 @@ Pls note that this repo is based on Saitama Bot and GroupManager Bot.
 {}
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n")
-DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @xditya."""
+DONATE_STRING = """Heya, glad to hear you want to donate! I'm not accepting any donations right now, still, if needed, drop a thanks to @TheFlashxD."""
 
 IMPORTED = {}
 MIGRATEABLE = []
